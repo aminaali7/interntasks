@@ -1,0 +1,25 @@
+        #red { 
+            background-color: red;
+    
+        }
+        #green {
+            background-color: green;
+
+        }
+        #blue {
+            background-color: blue;
+
+        }
+
+        button {
+            border-radius: 5px;
+            width: 100px;
+            height: 40px;
+            margin: 5px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        h3{
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-style: oblique;
+            font-size: medium;
+        }
