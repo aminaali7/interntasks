@@ -1,0 +1,4 @@
+[build]
+  base = "some-directory"
+  publish = "build"
+  command = "npm run build"
