@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "echo 'No build needed",
+    "build": "echo 'No build needed'",
     "test": "echo \"No tests specified\" && exit 0"
   },
   "author": "aminaali7",
